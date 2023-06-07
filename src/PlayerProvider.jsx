@@ -16,7 +16,6 @@ export const winObj = {
   player2Arr : []
 }
 
-export const WinArray = [["", "", ""],[ "", "", ""],[ "", "", ""]]
 
 const iconsArr = [
    <i key={PLAYER.player1} className="fa fa-times fa-4x" aria-hidden="true"></i> ,
