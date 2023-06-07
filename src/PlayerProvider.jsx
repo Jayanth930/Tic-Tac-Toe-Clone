@@ -1,11 +1,20 @@
 import React , { useState , useContext } from 'react'
 import {PropTypes} from 'prop-types'
+
 const  Player = React.createContext()
 
 export  const PLAYER = {
     player1 : 'cross',
     player2 : 'circle'
  }
+export const WinCombinations = [
+  [1,2,3] ,[4,5,6] , [7,8,9] ,[1,4,7] , [2,5,8] , [3,6,9] , [1,5,9] , [3,5,7]
+]
+
+export const winObj = {
+  player1Arr : [],
+  player2Arr : []
+}
 
 export const WinArray = [["", "", ""],[ "", "", ""],[ "", "", ""]]
 
