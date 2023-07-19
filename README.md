@@ -19,12 +19,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -44,9 +40,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
 
 
 <!-- GETTING STARTED -->
@@ -107,6 +101,6 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - Jayanth kambhampati - `kambhampatijayanth24@gmail.com`
 
-Project Repo Link Link: [Tic-Tac-Toe](https://github.com/Jayanth930/Tic-Tac-Toe-Clone.git))
+Project Repo Link Link: [(https://github.com/Jayanth930/Tic-Tac-Toe-Clone.git)](https://github.com/Jayanth930/Tic-Tac-Toe-Clone.git))
 
 **U can View Live App Here** -  [Tic-Tac-Toe](https://tic-tac-clone.onrender.com)
