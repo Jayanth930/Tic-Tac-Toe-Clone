@@ -38,7 +38,7 @@ I Think everyone knows abot the game , Its a try from me to replicate using **Re
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![React][React.js]][React-url]
+* [![React][React.js]][https://react.dev/]
 * [![Vue][Vue.js]][Vue-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
